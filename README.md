@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Vanshika</h1>
-<h3 align="center">Motivated college student | Social media savvy | Team player | Proactive leader | Strong problem-solving | Effective communicator</h3>
+<h3 align="center">Code crafter, team player, and tech enthusiast with a vision.</h3>
 <img align="right" alt="Coding" width="400" src="https://cdna.artstation.com/p/assets/images/images/042/631/286/original/bryan-rodriguez-belchibia-1-rightspeed.gif?1635037562" />
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vanshiika" alt="vanshiika" /></a> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=vanshiika&label=Profile%20views&color=0e75b6&style=flat" alt="vanshiika" /> </p>
 
 - 🌱 I’m currently learning **React Native**
 
@@ -21,8 +21,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vanshiika&show_icons=true&locale=en" alt="vanshiika" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vanshiika&" alt="vanshiika" /></p>
-
-<!---
-vanshiika/vanshiika is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
